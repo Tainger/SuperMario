@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/luck/interfaces/Dangerous.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/interfaces/Flint.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/interfaces/Growable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/interfaces/Kill.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/interfaces/Moveable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/main/Control.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/main/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/main/Main.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/model/BadFlower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/model/Bullet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/model/Flower.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/model/Wall.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/ApplicationUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/CrashType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/ImageTool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/Null.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/Property.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/luck/tool/SoundTool.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
